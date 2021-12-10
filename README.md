@@ -4,7 +4,7 @@ This is an example project demonstrating how to deploy Python Django application
 
 ## Application structure
 
-## Flt Configuration
+## Fly Configuration
 
 ### Secrets
 
